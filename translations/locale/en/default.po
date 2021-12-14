@@ -143,3 +143,6 @@ msgstr "ENENen"
 
 msgid "cfg.sti_centre.customer_delivery_line1.root"
 msgstr "ENEN"
+
+msgid "cfg.accm.customer_delivery_line1.root"
+msgstr "ENEN"
